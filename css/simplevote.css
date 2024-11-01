@@ -1,0 +1,22 @@
+/* user side */
+.simplevote .icons			{ overflow: auto; }
+.simplevote p				{ margin: 0; } 
+.simplevote .description 	{ text-align: center; margin-bottom: 5px; }
+.simplevote .hot,
+.simplevote .not			{ width: 50%; float: left; text-align: center; text-decoration:none; padding: 3px;}
+
+.simplevote .hottext,
+.simplevote .nottext		{ width: 50%; float: left; text-align: center; padding: 3px; color: #333;}
+
+.simplevote .hot:hover,
+.simplevote .not:hover		{ background-color: #eee; }
+.simplevote i 				{ font-size: 5em;  }
+
+/* Admin side */
+.simplevote_hot				{ color: green; text-align:center; font-weight: bold;}
+.simplevote_not				{ color: red; text-align:center; font-weight: bold;}
+.simplevote_equal			{ color: #333; text-align:center; font-weight: bold;}
+.simplevote_noscore			{ text-align:center; }
+
+.simplevote_center			{ text-align: center; }
+.simplevote_admin			{ font-size: 4em; margin-bottom: 10px}

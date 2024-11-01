@@ -1,0 +1,11 @@
+
+.icon-emo-happy:before { content: '\e800'; } /* '' */
+.icon-ok:before { content: '\e801'; } /* '' */
+.icon-cancel:before { content: '\e802'; } /* '' */
+.icon-plus:before { content: '\e803'; } /* '' */
+.icon-minus:before { content: '\e804'; } /* '' */
+.icon-sun:before { content: '\e805'; } /* '' */
+.icon-rain:before { content: '\e806'; } /* '' */
+.icon-emo-unhappy:before { content: '\e807'; } /* '' */
+.icon-thumbs-up:before { content: '\e808'; } /* '' */
+.icon-thumbs-down:before { content: '\e809'; } /* '' */

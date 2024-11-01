@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SimpleVote v1.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-01-20 20:28:29+0000\n"
+"Last-Translator: admin <admin@funsite.eu>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: simplevote.php:39
+#@ simplevote
+msgid "Implements a simple voting system."
+msgstr "Implementeerd een eenvoudig stem systeem."
+
+#: simplevote.php:38
+#: simplevote.php:56
+#@ simplevote
+msgid "Simplevote"
+msgstr "Simplevote"
+
+#: simplevote.php:57
+#@ simplevote
+msgid "Do you like what you see on this page?"
+msgstr "Wat denkt u van de inhoud van deze pagina?"
+
+#: simplevote.php:59
+#@ simplevote
+msgid "Yeah, great!"
+msgstr "Ja! Geweldig!"
+
+#: simplevote.php:60
+#@ simplevote
+msgid "No, not really"
+msgstr "Nah.. niet echt.."
+
+#: simplevote.php:67
+#@ simplevote
+msgid "Widget Title"
+msgstr "Widget titel"
+
+#: simplevote.php:87
+#@ simplevote
+msgid "HOT title text"
+msgstr "HOT titel tekst"
+
+#: simplevote.php:92
+#@ simplevote
+msgid "HOT color"
+msgstr "HOT kleur"
+
+#: simplevote.php:98
+#@ simplevote
+msgid "NOT title text"
+msgstr "NOT titel tekst"
+
+#: simplevote.php:103
+#@ simplevote
+msgid "NOT color"
+msgstr "NOT kleur"
+
+#: simplevote.php:238
+#: simplevote.php:330
+#@ simplevote
+msgid "No scores yet"
+msgstr "Nog geen scores"
+
+#: simplevote.php:72
+#@ simplevote
+msgid "Description"
+msgstr "Toelichting"
+
+#: simplevote.php:77
+#@ simplevote
+msgid "Iconset"
+msgstr "Iconen"
+
+#. translators: plugin header field 'Name'
+#: simplevote.php:0
+#@ simplevote
+msgid "SimpleVote"
+msgstr "SimpleVote"
+
+#. translators: plugin header field 'PluginURI'
+#: simplevote.php:0
+#@ simplevote
+msgid "http://www.funsite.eu/plugins/simplevote"
+msgstr "http://www.funsite.eu/plugins/simplevote"
+
+#. translators: plugin header field 'Description'
+#: simplevote.php:0
+#@ simplevote
+msgid "Creates a widget for a simple voting system."
+msgstr "Creëert een widget met een eenvoudig stem systeem"
+
+#. translators: plugin header field 'Author'
+#: simplevote.php:0
+#@ simplevote
+msgid "Gerhard Hoogterp"
+msgstr "Gerhard Hoogterp"
+
+#. translators: plugin header field 'AuthorURI'
+#: simplevote.php:0
+#@ simplevote
+msgid "http://www.funsite.eu/"
+msgstr "http://www.funsite.eu/"
+
+#. translators: plugin header field 'Version'
+#: simplevote.php:0
+#@ simplevote
+msgid "1.3"
+msgstr "1.3"
+
